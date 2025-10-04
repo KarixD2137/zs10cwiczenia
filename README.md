@@ -53,4 +53,4 @@ Information about changes [goes here](./CHANGELOG.md)
 &nbsp;
 &nbsp;
 
-*README by [@cypekdev](https://github.com/cypekdev)*
+*Thanks to [@cypekdev](https://github.com/cypekdev) for README*
